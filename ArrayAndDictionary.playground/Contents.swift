@@ -43,3 +43,18 @@ numberInts.append(25)
 numberInts.sort()
 
 
+//================ Dictionary
+var dicNameStrings = ["key1":"doramon" , "key2":"nopita" , "key3":"sunako"]
+var dicNumberInts = ["num1":111,"num2":222,"num3":333]
+var dicSpical:Any = ["key1":"boss","key2":333]
+
+//find length of dictionary
+print("member of dicNameStrings ==> \(dicNameStrings.count) " );
+print("member of dicNumberInts ==> \(dicNumberInts.count) " );
+
+print("dicNameString key2 ==> \(dicNameStrings["key2"])")
+print("dicNameString key2 and ! ==> \(dicNameStrings["key2"]!)")
+
+
+
+
