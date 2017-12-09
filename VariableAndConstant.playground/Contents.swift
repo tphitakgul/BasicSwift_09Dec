@@ -27,6 +27,13 @@ var myNumber:Int = 321;
 var myDouble:Double = 23.32;
 var myStatus:Bool = false;
 
+//display console
+print(" Normal string")
+print(" Name = \(nameString)  Sername = \(surname) " ) //example print
+//  ----> \(namevariable)
+
+print(" Integer = \(myNumber) ")
+
 
 
 
