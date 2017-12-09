@@ -17,6 +17,7 @@ numberInt = 321;
 numberDouble = 23.32;
 status = false;
 
-
+//final string cannot
+let conNameString = "Nopita";
 
 
