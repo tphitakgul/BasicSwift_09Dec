@@ -18,6 +18,17 @@ numberDouble = 23.32;
 status = false;
 
 //final string cannot
-let conNameString = "Nopita";
+let conNameString = "Nopita"; //cannot set variable
+
+//create datatype
+//fix int string double
+var surname: String = "StrPhitakgul";
+var myNumber:Int = 321;
+var myDouble:Double = 23.32;
+var myStatus:Bool = false;
+
+
+
+
 
 
